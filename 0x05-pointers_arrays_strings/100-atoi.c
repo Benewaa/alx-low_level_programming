@@ -31,4 +31,4 @@ int _atoi(char *s)
 	}
 	result *= minus;
 	return (result);
-}}
+}
